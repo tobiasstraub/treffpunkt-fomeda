@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT druckerliste (drucker)+>
+<!ELEMENT drucker EMPTY>
+<!ATTLIST drucker art CDATA #REQUIRED>
+<!ATTLIST drucker seriennummer CDATA #REQUIRED>
+<!ATTLIST drucker hersteller CDATA #REQUIRED>

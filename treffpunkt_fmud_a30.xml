@@ -1,0 +1,6 @@
+<!DOCTYPE druckerliste SYSTEM "treffpunkt_fmud_a29.dtd">
+<druckerliste>
+  <drucker art="Laserdrucker" seriennummer="123456" hersteller="HP" />
+  <drucker art="Titenstrahldrucker" seriennummer="654321" hersteller="Lexmark" />
+  <drucker art="Laserdrucker" seriennummer="321456" hersteller="HP" />
+</druckerliste>
