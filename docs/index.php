@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<title>TREFFpunkt Formale Methoden und Datenstrukturen Sommersemester 2016</title>
+</head>
+<body>
+<header>
+<div id="logo-treffer"><img src="images/logo_treffer.jpg" height="101px"></div>
+<div id="logo-hfu"><img src="images/logo_hfu.jpg" width="250px"></div>
+</header>
+<div class="top-line">&nbsp;</div>
+<h1>TREFFpunkt Formale Methoden und Datenstrukturen</h1>
+<b>immer mittwochs, von 17:30 Uhr bis 19:00 Uhr</b><br>
+<b>in FU C0.08</b><br>
+Beginn ab 06.04.2016<br>
+<hr>
+<h2>Tutoren TREFFpunkt Formale Methoden und Datenstrukturen</h2>
+<b>Senior Tutor:</b> Tobias Straub, <a href="mailto:t.straub@hs-furtwangen.de">t.straub@hs-furtwangen.de</a><br>
+<b>Junior Tutorin:</b> Nadine Jakob, <a href="mailto:nadine.jakob@hs-furtwangen.de">nadine.jakob@hs-furtwangen.de</a>
+<hr>
+<h2>TREFFpunkt Übersicht</h2>
+<ul>
+<li><a href="#session0">1. TREFFpunkt (06.04.): Grundlagen</a></li>
+<li><a href="#session1">2. TREFFpunkt (13.04.): Grundlagen 2</a></li>
+<li><a href="#session2">3. TREFFpunkt (20.04.): Grundlagen 3</a></li>
+<li><a href="#session3">4. TREFFpunkt (27.04.): Grundlagen 4</a></li>
+<li><a href="#session4">5. TREFFpunkt (04.05.): Grundlagen 5</a></li>
+<li><a href="#session5">6. TREFFpunkt (11.05.): Grundlagen 6</a></li>
+<li><a href="#session6">7. TREFFpunkt (25.05.): Grundlagen 7</a></li>
+<li><a href="#session7">8. TREFFpunkt (01.06.): Grundlagen 8</a></li>
+<li><a href="#session8">9. TREFFpunkt (08.06.): Grundlagen 9</a></li>
+<li><a href="#session9">10. TREFFpunkt (15.06.): Grundlagen 10</a></li>
+<li><a href="#session10">11. TREFFpunkt (22.06.): Wiederholung von regul&auml;ren Ausdr&uuml;cken</a></li>
+<li><a href="#session11">12. TREFFpunkt (29.06.): Fragen, Probeklausur</a></li>
+</ul>
+<hr>
+<a name="session0"></a>
+<h2>1. TREFFpunkt vom 06.04.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_1.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 1:</b><br>
+<script src="https://gist.github.com/tobiasstraub/a270dc609d26fe6ecdf2dcc8305b998c.js"></script><br>
+<b>Musterlösung zu Aufgabe 2:</b><br>
+<script src="https://gist.github.com/tobiasstraub/d831be92edf53c7a9b09b18c2e3a6608.js"></script><br>
+<b>Musterlösung zu Aufgabe 3:</b><br>
+<script src="https://gist.github.com/tobiasstraub/09166fc2738bae6dc880c5323a343f04.js"></script><br>
+<b>Musterlösung zu Aufgabe 4:</b><br>
+<script src="https://gist.github.com/tobiasstraub/5fc26bcee17caf0f882c9e6f2ee34b59.js"></script><br>
+<b>Musterlösung zu Aufgabe 5:</b><br>
+<script src="https://gist.github.com/tobiasstraub/daab1a3fbceaddcafc0eb65339f70ffc.js"></script>
+<hr>
+<a name="session1"></a>
+<h2>2. TREFFpunkt vom 13.04.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_2.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 6:</b><br>
+<script src="https://gist.github.com/tobiasstraub/ee095ce961b782631b3684b9aa6aef19.js"></script><br>
+<b>Musterlösung zu Aufgabe 7:</b><br>
+<script src="https://gist.github.com/tobiasstraub/cbe3b6d4b4623f988c77c0374a5a0494.js"></script><br>
+<b>Musterlösung zu Aufgabe 8:</b><br>
+<script src="https://gist.github.com/tobiasstraub/83de4fa701ac158da4a3e318f6cef02e.js"></script>
+<hr>
+<a name="session2"></a>
+<h2>3. TREFFpunkt vom 20.04.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_3.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 9:</b><br>
+<script src="https://gist.github.com/tobiasstraub/84dbc6e6985d8a74580387a8b1e3d4fa.js"></script><br>
+<b>Musterlösung zu Aufgabe 10:</b><br>
+<script src="https://gist.github.com/tobiasstraub/0f907844f53fb48de29fe826acda1745.js"></script><br>
+<b>Musterlösung zu Aufgabe 11:</b><br>
+<script src="https://gist.github.com/tobiasstraub/a468d6fdc4454d47d1d3e638b2edbf66.js"></script><br>
+<b>Musterlösung zu Aufgabe 12:</b><br>
+<script src="https://gist.github.com/tobiasstraub/7309c20617850e07cec39d6255d16c6f.js"></script><br>
+<b>Musterlösung zu Aufgabe 13:</b><br>
+<script src="https://gist.github.com/tobiasstraub/39cf7903b943798ca9617e2e85bcd980.js"></script>
+<hr>
+<a name="session3"></a>
+<h2>4. TREFFpunkt vom 27.04.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_4.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 14:</b><br>
+<script src="https://gist.github.com/tobiasstraub/e49acb0fe4f248c07c73284c50b7e3c0.js"></script><br>
+<b>Musterlösung zu Aufgabe 15:</b><br>
+<script src="https://gist.github.com/tobiasstraub/651335303ddbcea3456493907de84d6c.js"></script><br>
+<b>Musterlösung zu Aufgabe 16:</b><br>
+<script src="https://gist.github.com/tobiasstraub/bf4a1d4c1a559555092a4bd1cee15b39.js"></script>
+<hr>
+<a name="session4"></a>
+<h2>5. TREFFpunkt vom 04.05.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_5.pdf" target="_blank">Ansehen</a><br><br>
+<b>Bubblesort Schritt f&uuml;r Schritt (2013):</b><br>
+<iframe src="//de.slideshare.net/slideshow/embed_code/key/ffhawDUfALCCnf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<br>
+<br>
+<b>Musterlösung zu Aufgabe 17:</b><br>
+<script src="https://gist.github.com/tobiasstraub/a2f551a342ee736921a71ded1a79be21.js"></script><br>
+<b>Musterlösung zu Aufgabe 18:</b><br>
+<script src="https://gist.github.com/tobiasstraub/ae03d39bbe1a9ebaa370aeaf18b5e18a.js"></script><br>
+<b>Musterlösung zu Aufgabe 19:</b><br>
+<script src="https://gist.github.com/tobiasstraub/eda76f31c84192397e6e73d9f1e163ef.js"></script>
+<hr>
+<a name="session5"></a>
+<h2>6. TREFFpunkt vom 11.05.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_6.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 20:</b><br>
+<script src="https://gist.github.com/tobiasstraub/e75647a659a8f7bfc86c6aa24b96a7ff.js"></script><br>
+<b>Musterlösung zu Aufgabe 21:</b><br>
+<script src="https://gist.github.com/tobiasstraub/8fa257118f7281ca429e8c1977765ba9.js"></script><br>
+<b>Musterlösung zu Aufgabe 22:</b><br>
+<script src="https://gist.github.com/tobiasstraub/803fe19701bccc858fc95a2e417f1f93.js"></script><br>
+<b>Musterlösung zu Aufgabe 23:</b><br>
+<script src="https://gist.github.com/tobiasstraub/4d9be4c73c0f0d26a54a73a6f6283e77.js"></script><br>
+<b>Musterlösung zu Aufgabe 24:</b><br>
+<script src="https://gist.github.com/tobiasstraub/6177b7150d4788c40fbcb98502e87a82.js"></script><br>
+<b>Musterlösung zu Aufgabe 25:</b><br>
+<script src="https://gist.github.com/tobiasstraub/db5f28bd105f576e6c1c5ed016eb7100.js"></script><br>
+<b>Musterlösung zu Aufgabe 26:</b><br>
+<script src="https://gist.github.com/tobiasstraub/2f02229c59f9cb9674d609c704dd7cbe.js"></script><br>
+<b>Musterlösung zu Aufgabe 27:</b><br>
+<script src="https://gist.github.com/tobiasstraub/4ff103ff40b20a83fe613e592052d0f6.js"></script>
+<hr>
+<a name="session6"></a>
+<h2>7. TREFFpunkt vom 25.05.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_7.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 28:</b><br>
+<script src="https://gist.github.com/tobiasstraub/4cc245010de4966e1b59d363d951387b.js"></script><br>
+<b>Musterlösung zu Aufgabe 29:</b><br>
+<script src="https://gist.github.com/tobiasstraub/c5c117e1775e2bfa578c86997bc60c54.js"></script><br>
+<b>Musterlösung zu Aufgabe 30:</b><br>
+<script src="https://gist.github.com/tobiasstraub/543dbd7fa5a8538d2d697c23242296d6.js"></script>
+<hr>
+<a name="session7"></a>
+<h2>8. TREFFpunkt vom 01.06.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_8.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 31:</b><br>
+<script src="https://gist.github.com/tobiasstraub/8638d8052b5935429b1005fe52dd5364.js"></script><br>
+<b>Musterlösung zu Aufgabe 32:</b><br>
+<script src="https://gist.github.com/tobiasstraub/ee4a493ed65f0e5b7dfa85b01d43784a.js"></script>
+<hr>
+<a name="session8"></a>
+<h2>9. TREFFpunkt vom 08.06.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_9.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 33:</b><br>
+<script src="https://gist.github.com/tobiasstraub/2700670615484f2e58885671bd35190a.js"></script><br>
+<b>Musterlösung zu Aufgabe 34:</b><br>
+<script src="https://gist.github.com/tobiasstraub/822dde97ed2fc9f1a020ac85159dbefd.js"></script><br>
+<b>Musterlösung zu Aufgabe 35:</b><br>
+<script src="https://gist.github.com/tobiasstraub/d4526aaed1beacd026b92fc1448ee53c.js"></script><br>
+<b>Musterlösung zu Aufgabe 36:</b><br>
+<script src="https://gist.github.com/tobiasstraub/231d6c20364294cdce84bb1d1a3dc069.js"></script><br>
+<b>Musterlösung zu Aufgabe 37:</b><br>
+<script src="https://gist.github.com/tobiasstraub/009fb2c112369bde89528d630379810c.js"></script><br>
+<b>Musterlösung zu Aufgabe 38:</b><br>
+<script src="https://gist.github.com/tobiasstraub/c37a0f36987d21b6f76ca7f4f186cfbe.js"></script>
+<hr>
+<a name="session9"></a>
+<h2>10. TREFFpunkt vom 15.06.</h2>
+<br>
+<b>Skript:</b> <a href="skript/treffpunkt_fmud_10.pdf" target="_blank">Ansehen</a><br>
+<br>
+<b>Musterlösung zu Aufgabe 39:</b><br>
+<img src="images/aufgabe39_source.jpg" alt="Aufgabe 39 Musterloesung" height="95%" /><br>
+<b>Musterlösung zu Aufgabe 40:</b><br>
+<img src="images/aufgabe40_source.jpg" alt="Aufgabe 40 Musterloesung" height="95%" /><br>
+<b>Musterlösung zu Aufgabe 41:</b><br>
+<img src="images/aufgabe41_source.jpg" alt="Aufgabe 41 Musterloesung" height="95%" />
+<br><br>
+<hr>
+<a name="session10"></a>
+<h2>11. TREFFpunkt vom 22.06.</h2>
+<br>
+<b>➰ Wiederholung von <a href="#session5">regul&auml;ren Ausdr&uuml;cken</a></b>
+<hr>
+<a name="session11"></a>
+<h2>12. TREFFpunkt vom 29.06.</h2>
+<br>
+<b>KFuD14-01-30:</b> <a href="https://felix.hs-furtwangen.de/auth/RepositoryEntry/2170028032/CourseNode/92654919341143" target="_blank">Ansehen</a>
+<br><br>
+<div id="logo-bmbf"><img src="images/logo_bmbf.jpg" width="250px"></div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});
+</script>
+</body>
+</html>
